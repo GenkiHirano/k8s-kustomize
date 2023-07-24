@@ -1,0 +1,5 @@
+bases:
+  - ../base/
+namespace: stg
+patchesStrategicMerge:
+  - ./patch-strategy.yaml
