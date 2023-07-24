@@ -1,0 +1,5 @@
+bases:
+  - ../base/
+namespace: dev
+patchesStrategicMerge:
+  - ./patch-replicas.yaml
